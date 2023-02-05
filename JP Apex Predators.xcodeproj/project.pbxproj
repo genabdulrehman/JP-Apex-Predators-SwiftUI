@@ -14,6 +14,7 @@
 		B5BC3E4A298F88F700072731 /* JP_Apex_PredatorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC3E49298F88F700072731 /* JP_Apex_PredatorsTests.swift */; };
 		B5BC3E54298F88F700072731 /* JP_Apex_PredatorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC3E53298F88F700072731 /* JP_Apex_PredatorsUITests.swift */; };
 		B5BC3E56298F88F700072731 /* JP_Apex_PredatorsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BC3E55298F88F700072731 /* JP_Apex_PredatorsUITestsLaunchTests.swift */; };
+		B5BC3E63298F89F400072731 /* jpapexpredators.json in Resources */ = {isa = PBXBuildFile; fileRef = B5BC3E62298F89F400072731 /* jpapexpredators.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B5BC3E4F298F88F700072731 /* JP Apex PredatorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "JP Apex PredatorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5BC3E53298F88F700072731 /* JP_Apex_PredatorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JP_Apex_PredatorsUITests.swift; sourceTree = "<group>"; };
 		B5BC3E55298F88F700072731 /* JP_Apex_PredatorsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JP_Apex_PredatorsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B5BC3E62298F89F400072731 /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jpapexpredators.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B5BC3E38298F88F500072731 /* JP_Apex_PredatorsApp.swift */,
 				B5BC3E3A298F88F500072731 /* ContentView.swift */,
+				B5BC3E62298F89F400072731 /* jpapexpredators.json */,
 				B5BC3E3C298F88F700072731 /* Assets.xcassets */,
 				B5BC3E3E298F88F700072731 /* Preview Content */,
 			);
@@ -233,6 +236,7 @@
 			files = (
 				B5BC3E40298F88F700072731 /* Preview Assets.xcassets in Resources */,
 				B5BC3E3D298F88F700072731 /* Assets.xcassets in Resources */,
+				B5BC3E63298F89F400072731 /* jpapexpredators.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
